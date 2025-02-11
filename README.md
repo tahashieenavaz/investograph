@@ -1,4 +1,6 @@
-# Investograph
+<p align="center">
+  <img src="./art/header.svg" width=600 />
+</p>
 
 This research compares the subway networks of Paris, London, and São Paulo, aiming to assess eciency and guide strategic investments. Advanced network analysis techniques are employed to evaluate centrality measures, connectivity patterns, and network robustness. The ndings identify key areas for targeted investments to enhance overall transit network performance, offering valuable insights for urban planners, policymakers, and investors.
 
